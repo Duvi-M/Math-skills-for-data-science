@@ -1,6 +1,6 @@
 # Math-skills-for-data-science
 
-En este repop tratare temas/skills importantes que todo cientifico de datos deberia tener, la guia estara diseñada de la siguiente manera:
+En este repo tratare temas/skills importantes que todo cientifico de datos deberia tener, la guia estara diseñada de la siguiente manera:
 
 ## 📚 Study Roadmap
 1. Algebra basics
