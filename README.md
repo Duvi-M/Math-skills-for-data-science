@@ -9,8 +9,6 @@ En este repo tratare temas/skills importantes que todo cientifico de datos deber
 4. Calculus (light)
 
 ## 🔗 External Resources (Main)
-- Duke University – Data Science Math Skills  
-  https://github.com/salimt/Courses-/tree/master/Duke-University-Data-Science-Math-Skills
 - MIT Math for DS  
   https://ocw.mit.edu
 
